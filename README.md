@@ -9,3 +9,10 @@ Software Used:
   Download link-https://www.apachefriends.org/download.html
 2.visual studio
   Download link-https://code.visualstudio.com/download
+Steps for connecting database:-
+First of all in this website contactus page is connect to the Database.
+Step1: First we have to install xampp server & MySQL server.
+Step2: Then open xampp server and start apache and mysql server.
+Step3: Then open any browser and write http://localhost/phpmyadmin/ on the search tab.
+Step4: Then create a new database name as contactus  and set number of column 4.
+Step5:And the column name as Name, Email ,phone,comments.
