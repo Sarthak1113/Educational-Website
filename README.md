@@ -4,3 +4,8 @@ It contains the programming language.Education is an aspect of socialization whi
 
  Key Words:
  Html , Javascript, CSS ,  Browser, Xampp ,mysql ,php
+Software Used:
+1.Xampp Server 
+  Download link-https://www.apachefriends.org/download.html
+2.visual studio
+  Download link-https://code.visualstudio.com/download
